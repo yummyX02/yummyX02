@@ -2,7 +2,7 @@
 - 👀 I’m interested in codding in frontend and play sports,like soccer and basketball ...
 - 🌱 I’m currently learning frontend.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ?You can find me in ajaxs3926@gmail.
+- 📫 How to reach me ?You can find me in ajaxs3926@gmail.com
 
 <!---
 yummyX02/yummyX02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
